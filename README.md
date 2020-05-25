@@ -11,3 +11,5 @@ Sample Input 0 <br>
 
 Sample Output 0 <br>
 Good job
+
+Hackerrank Link: https://www.hackerrank.com/challenges/java-int-to-string/problem
